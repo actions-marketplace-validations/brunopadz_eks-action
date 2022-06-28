@@ -1,5 +1,5 @@
-name: "EKS Action"
-description: "Interacts with kubernetes clusters on eks by `kubectl` commands."
+name: "Deploy to Kubernetes"
+description: "Interacts with kubernetes clusters on eks by `kubectl` and `helm` commands."
 branding:
   icon: 'box'
   color: 'gray-dark'
