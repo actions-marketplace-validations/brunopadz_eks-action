@@ -1,4 +1,4 @@
-name: "Deploy to Kubernetes"
+name: "Deploy2K8s Action"
 description: "Interacts with kubernetes clusters on eks by `kubectl` and `helm` commands."
 branding:
   icon: 'box'
